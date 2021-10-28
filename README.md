@@ -114,6 +114,16 @@ Koi Farm is a game about playing with koi ponds. Explore an infinite number of p
 
 Lazy Chess is a new non-profit chess game that narrows your choices down to the best 2 possible moves per turn. The moves provided can always win the game, but how strong are your decisions? Fewer moves. More fun.
 
+* ## Little Big Adventure
+[Game on Steam](https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/) | [Source Code](https://github.com/2point21/lba1-classic) | [Website](https://blog.2point21.com/)
+
+Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal.
+
+* ## Little Big Adventure 2
+[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code](https://github.com/2point21/lba2-classic) | [Website](https://blog.2point21.com/)
+
+Here comes the sequel of Little Big Adventure. After saving the world from the evilish Doctor Funfrock, Twinsen is now ready to face a new threat coming from outer space. 
+
 <!--* ## Lugaru
 [Game on Steam](https://store.steampowered.com/app/25010/Lugaru_HD/) | [Source Code](https://gitlab.com/osslugaru/lugaru) | [Website](https://osslugaru.gitlab.io/)
 
